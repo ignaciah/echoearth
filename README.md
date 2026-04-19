@@ -52,3 +52,25 @@ echoearth/
 ├── README.md
 └── .gitignore
 ```
+```markdown
+# 🌍 EchoEarth - Planetary Pulse Visualizer
+
+## Hackathon Weekend Project
+
+### Quick Start
+
+```bash
+# Clone and enter project
+git clone <your-repo>
+cd echoearth
+
+# Backend
+cd backend
+npm install
+npm run dev
+
+# Frontend (new terminal)
+cd frontend
+npm install
+npm run dev
+```
